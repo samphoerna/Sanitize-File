@@ -1,13 +1,13 @@
 # Sanitize-File
-Anti-Forensics tools and script to cleanly remove or destroy file in a directory using sdelete
+Anti-Forensics tools and script to securely remove or destroy file in a directory using sdelete
 
-Use only in #### windows machine #### , i will gather information about linux or macOs soon
+Use only in **windows machine** , i will gather information about securely remove files in linux or macOs soon
 
 Case Study:
 
 I use it in the event of a Computer Assisted Test, where the exam mainly stores the questions and answers in a digital drive. So, we must ensure that the file cannot be recovered and analyzed
 
-<img width="150" height="150" alt="screen-shot-2023-05-14-at-7 13 53-pm" src="https://github.com/samphoerna/Sanitize-File/assets/139729508/56c9c8ed-d283-4251-9380-189fae893fe0">
+<img width="180" height="150" alt="screen-shot-2023-05-14-at-7 13 53-pm" src="https://github.com/samphoerna/Sanitize-File/assets/139729508/56c9c8ed-d283-4251-9380-189fae893fe0">
 
 ---
 
